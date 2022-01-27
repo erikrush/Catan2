@@ -1,0 +1,109 @@
+﻿  board.cpp
+C:\Users\erikr\source\repos\Catan2\Catan2\helpers.h(4,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\helpers.h(5,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\helpers.h(11,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\helpers.h(12,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\helpers.h(21,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\helpers.h(22,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\helpers.h(28,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\helpers.h(29,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\helpers.h(35,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\helpers.h(45,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\helpers.h(46,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\helpers.h(54,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\helpers.h(125,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\helpers.h(159,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\helpers.h(320,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\helpers.h(321,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\helpers.h(323,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\helpers.h(332,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\helpers.h(333,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\helpers.h(335,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\helpers.h(463,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\helpers.h(473,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\helpers.h(491,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\helpers.h(524,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\helpers.h(534,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\helpers.h(540,20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(7,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(86,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(147,41): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(148,41): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(166,41): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(167,41): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(183,41): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(184,41): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(201,42): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(202,42): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(223,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(254,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(262,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(274,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(293,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(301,72): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(327,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(342,78): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(380,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(387,72): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(401,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(414,78): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(418,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(489,72): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(525,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(540,62): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(588,64): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(599,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(607,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(624,33): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(683,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(687,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(690,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(693,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(696,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(713,17): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(778,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(787,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(810,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(813,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\erikr\source\repos\Catan2\Catan2\board.cpp(819,20): warning C4018: '<': signed/unsigned mismatch
+  Catan2.vcxproj -> C:\Users\erikr\source\repos\Catan2\Debug\Catan2.exe
